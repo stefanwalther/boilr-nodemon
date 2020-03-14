@@ -1,19 +1,15 @@
 {
   "name": "boilr-nodemon",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "version": "0.1.0",
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stefanwalther/boilr-nodemon.git"
   },
-  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/stefanwalther/boilr-nodemon/issues"
   },
-  "homepage": "https://github.com/stefanwalther/boilr-nodemon#readme"
+  "homepage": "https://github.com/stefanwalther/boilr-nodemon#readme",
+  "description": "Boilr template for a simple nodemon.json file."
 }
